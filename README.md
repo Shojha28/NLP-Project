@@ -122,6 +122,10 @@ ResNet50 overfitted quickly, even with augmentation, because it was too large fo
 The custom CNN generalized better due to its simpler architecture, which fit the dataset better.
 Class imbalance (some emotions having far fewer images) also affected overall accuracy.
 
+## Model Results Comparison
+![image](https://github.com/user-attachments/assets/9600faa3-3524-4f80-a5a6-67d99adb6dcf)
+
+
 
 ## Technologies Used
 Since this was a deep learning project, I worked with:
